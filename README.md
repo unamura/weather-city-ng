@@ -8,8 +8,9 @@ This is a very simple and raw project, it's not complete and yet to be developed
 - [ ] Create pages for all the possible URL steps
 - [ ] Create buttons
 - [ ] Understand best practises
+- [ ] Dockerfile to launch in container
 
-## Auto generated info
+# How to execute the project with Angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
 ## Development server
