@@ -1,5 +1,15 @@
-# WeatherCityNg
+# WEATHER CITY NG
+This is an example project made with Angular to interact with the weather city web app API.
 
+As a stylesheet it is used Bootstrap.
+## Details
+This is a very simple and raw project, it's not complete and yet to be developed.
+## Todo list
+- [ ] Create pages for all the possible URL steps
+- [ ] Create buttons
+- [ ] Understand best practises
+
+## Auto generated info
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.10.
 
 ## Development server
